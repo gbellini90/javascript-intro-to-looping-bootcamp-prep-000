@@ -14,4 +14,7 @@ function forLoop(array){
       console.log(countdown--)}
     return 'done'}
     
-function 
+function doWhileLoop(array){
+  array=[]
+
+}
