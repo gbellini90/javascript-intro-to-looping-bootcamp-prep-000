@@ -15,8 +15,7 @@ function forLoop(array){
     return 'done'}
     
 function doWhileLoop(array){
-array=[]
-i=i+1;
+var i=0
 do{
   
 }
